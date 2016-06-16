@@ -1,0 +1,31 @@
+{
+  "name": "datins",
+  "version": "1.0.0",
+  "description": "Datins is a simple social network, where i train on new skills.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/werunik/datins.git"
+  },
+  "author": "Werunik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/werunik/datins/issues"
+  },
+  "homepage": "https://github.com/werunik/datins#readme",
+  "dependencies": {
+    "babel-core": "^6.9.1",
+    "babel-loader": "^6.2.4",
+    "babel-preset-react": "^6.5.0"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0"
+  }
+}

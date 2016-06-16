@@ -8,8 +8,9 @@ gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 
 #Custom
-#gem 'react-rails', '~> 1.4.0'
-gem 'react-rails'
+#gem 'react-rails'
+gem 'react-rails', '~> 1.6.0'
+
 
 group :development, :test do
   gem 'byebug'
